@@ -1,1 +1,1 @@
-After six years working in learning and development in the customer services industry, I have taken the opportunity to move into a new role as a Software Developer. I made this decision after desiring a new challenge that allows me to actively solve problems and continually work on new projects. Following my time preparing for and completing the Northcoders Software Development Bootcamp, I feel ready to fully integrate into the industry, bringing my prior experiences and soft skills along too.
+Hey, my name is John.
